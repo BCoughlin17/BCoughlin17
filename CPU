@@ -1,0 +1,5 @@
+When going thru a self check out there are several computing steps:
+1) Scanning in product into the main cpu which then strores the data and instructs step by step how to write the information 
+2) Converts the information in to pixal or how to draw the numbers or product name to the screen or eventually the reciept.
+3) Sends the output to the screen or reciept which then converts it to bianary.
+4) Produces the image on the reciept or screen, creates the sound and prints the paper.
