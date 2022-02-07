@@ -1,0 +1,3 @@
+In the Hardware video discussing CPU and ALU, CPU is the central processing unit, control unit.  It recieves instructions from the RAM memory unity.  Which generally moves thru 
+numerical comands in order however if instructed can jump around instructions.  Hence the Random part of the RAM.  The CPU then instructs the ALU or the Arithmatic Logic Unit
+to preform the math equations then send those results to via output.  The instructions sets include:  Load, Add, Store, Compare, Jump, Jump if, Out and In.
